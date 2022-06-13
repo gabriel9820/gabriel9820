@@ -1,3 +1,5 @@
+### 🤝 Welcome to my GitHub profile!
+
 <a href="https://github.com/gabriel9820">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel9820&count_private=true&show_icons=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel9820&layout=compact&theme=react" />
@@ -5,7 +7,7 @@
 
 ##
 
-### Technologies
+### 🚀 Technologies
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />            
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />            
@@ -19,20 +21,20 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-### Setup
+### 💻 Setup
 <div> 
   <img src="https://img.shields.io/badge/Intel-CORE_I7_7700-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-GTX_970-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
 
-### OS
+### 💿 OS
 <div> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
  </div>
  
-### Social
+### 👋 Social
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-lemos-alves/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
