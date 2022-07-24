@@ -22,9 +22,9 @@
 </div>
 
 ### 💻 Setup
-<div> 
-  <img src="https://img.shields.io/badge/Intel-CORE_I7_7700-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_970-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<div>             
+  <img src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
 
 ### 💿 OS
